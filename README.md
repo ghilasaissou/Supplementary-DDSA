@@ -1,1 +1,1 @@
-Supplement to Supplement to Feedback-assisted Decentralized Dynamic Spectrum Access
+Supplement to Feedback-assisted Decentralized Dynamic Spectrum Access.
